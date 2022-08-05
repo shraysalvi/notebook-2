@@ -4,3 +4,5 @@ build
 build/
 _output
 _output/
+requirements.txt
+.jupyterlite.doit.db
