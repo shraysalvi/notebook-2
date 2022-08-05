@@ -1,0 +1,6 @@
+setup.py
+arlarse_notebook.egg-info/PKG-INFO
+arlarse_notebook.egg-info/SOURCES.txt
+arlarse_notebook.egg-info/dependency_links.txt
+arlarse_notebook.egg-info/requires.txt
+arlarse_notebook.egg-info/top_level.txt
