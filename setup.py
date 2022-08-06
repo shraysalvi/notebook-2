@@ -89,7 +89,6 @@ setup(
     'pyrsistent==0.18.1',
     'python-dateutil==2.8.2',
     'pytz==2022.1',
-    'pywinpty==2.0.6',
     'pyzmq==23.2.0',
     'qiskit==0.37.1',
     'qiskit-aer==0.10.4',
